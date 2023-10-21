@@ -37,7 +37,7 @@ nav {
   position: fixed;
   right: 1;
   max-height: 100%;
-  box-shadow: -5px 5px 10px;
+  box-shadow: 5px 5px 10px;
 }
 
 nav > ul, #nav-menu, #img-header {
