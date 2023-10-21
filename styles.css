@@ -61,14 +61,6 @@ nav > ul > li, #nav-menu {
   float: right;
   text-shadow: 2px 3px 2px grey;
 }
-#menu2 {
-  display:;
-  margin-left: 50;
-  margin-right: 15;
-}
-#menu1 {
-  margin-left: 15;
-}
 #header-title {
   font-size: 50px;
   white-space: nowrap;
