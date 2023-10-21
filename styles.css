@@ -61,9 +61,15 @@ nav > ul > li, #nav-menu {
   float: right;
   text-shadow: 2px 3px 2px grey;
 }
+#menu2 {
+  margin-left: 50;
+  margin-right: 15;
+}
+#menu1 {
+  margin-left: 15;
+}
 #header-title {
   font-size: 50px;
-  max-height: 100%;
   white-space: nowrap;
   background-color: rgb(255,255,200);
   padding: 16;
